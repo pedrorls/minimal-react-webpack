@@ -11,7 +11,7 @@ npm i && npm start
 
 ## Meta
 
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
+Pedro Rodrigues Lima - [pedrorls.com](https://www.pedrorls.com) - pedror.rls93@gmail.com
 
 ## License
 
